@@ -89,7 +89,12 @@
 
 // console.log(comparison)
 
+// let i;
+// for(i=1; i<=42; i++){
+//     console.log(i)
+// }
+
 let i;
-for(i=1; i<=42; i++){
+for(i=42; i>=1; i--){
     console.log(i)
 }
